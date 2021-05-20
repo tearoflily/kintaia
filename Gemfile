@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 
 gem 'rails',        '~> 5.1.6'
 gem 'rails-i18n'
-gem 'puma',         '~> 3.7'
+gem 'puma',         '~> 4.3'
 gem 'bcrypt'
 gem 'sass-rails',   '~> 5.0'
 gem 'roo'
